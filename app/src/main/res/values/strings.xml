@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiniActivity3-part2</string>
+    <string name="text_rebut_pel_share_d_una_altra_app">Text rebut pel share d\'una altra app:</string>
+    <string name="pick_musica_name">CLICK</string>
+    <string name="go_third_activity_pick">GO THIRD ACTIVITY / PICK</string>
+    <string name="url_rebuda">URL rebuda:</string>
+    <string name="name">Name</string>
+</resources>
